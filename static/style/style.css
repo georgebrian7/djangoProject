@@ -1,0 +1,11 @@
+h5{
+    color: blue;
+    font-weight: bold;
+    align-items: center;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+.w-100 {
+  width: 100% !important;
+  height: 75vh;
+}
